@@ -1,0 +1,24 @@
+{
+  "name": "treinamentocypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DayaneFreitas/treinamentoCypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DayaneFreitas/treinamentoCypress/issues"
+  },
+  "homepage": "https://github.com/DayaneFreitas/treinamentoCypress#readme",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  }
+}
